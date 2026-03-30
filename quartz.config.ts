@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "denissolicen.github.io/Solicen-Investigation",
+    baseUrl: "https://denissolicen.github.io/Solicen-Investigation",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
