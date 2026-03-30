@@ -198,6 +198,9 @@ a {
     max-width: 90%;
     width: 800px;
     place-self: anchor-center;
+    align-self: center;
+    justify-self: center;
+    transform-origin: center;
     margin: 40px;
 
     grid-template-columns: #{map.get($desktopGrid, templateColumns)};
