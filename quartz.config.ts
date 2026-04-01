@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: 'G-40KNTBVN52',
     },
     locale: "ru-RU",
     baseUrl: "https://denissolicen.github.io/Solicen-Investigation",
