@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Исследования Солицена",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: 'google', tagId: 'G-40KNTBVN52',
     },
