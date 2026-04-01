@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-40KNTBVN52',
     },
     locale: "ru-RU",
-    baseUrl: "denissolicen.github.io/Solicen-Investigation",
+    baseUrl: "inv.solicen.ru",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
